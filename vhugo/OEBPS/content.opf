@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7f058408-407d-31b3-2199-9b44eb2b4835</dc:identifier>
+    <dc:title>中国胃癌患者指南</dc:title>
+    <dc:creator opf:role="aut">癌症康复杂志</dc:creator>
+    <dc:language>zh-CN</dc:language>
+    <dc:date opf:event="modification">2013-10-13</dc:date>
+    <dc:contributor opf:role="cre">@Elsevier</dc:contributor>
+    <meta content="0.7.3" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_0001.xhtml" id="content_0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_0002.xhtml" id="content_0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_0004.xhtml" id="content_0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_0003.xhtml" id="content_0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/main.css" id="main.css" media-type="text/css" />
+    <item href="Text/content_0008.xhtml" id="content_0008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Preface.xhtml" id="Preface.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Preface2.xhtml" id="Preface2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Cover.png" id="Cover.png" media-type="image/png" />
+    <item href="Images/Cover.jpg" id="Cover.jpg" media-type="image/jpeg" />
+    <item href="Images/jjf.jpg" id="jjf.jpg" media-type="image/jpeg" />
+    <item href="Images/01.png" id="x01.png" media-type="image/png" />
+    <item href="Images/02.png" id="x02.png" media-type="image/png" />
+    <item href="Images/04.png" id="x04.png" media-type="image/png" />
+    <item href="Images/03.png" id="x03.png" media-type="image/png" />
+    <item href="Images/05.png" id="x05.png" media-type="image/png" />
+    <item href="Images/06.png" id="x06.png" media-type="image/png" />
+    <item href="Images/07.png" id="x07.png" media-type="image/png" />
+    <item href="Images/09.png" id="x09.png" media-type="image/png" />
+    <item href="Images/08.png" id="x08.png" media-type="image/png" />
+    <item href="Images/10.png" id="x10.png" media-type="image/png" />
+    <item href="Images/11.png" id="x11.png" media-type="image/png" />
+    <item href="Images/12.png" id="x12.png" media-type="image/png" />
+    <item href="Images/13.png" id="x13.png" media-type="image/png" />
+    <item href="Images/14.png" id="x14.png" media-type="image/png" />
+    <item href="Images/15.png" id="x15.png" media-type="image/png" />
+    <item href="Images/16.png" id="x16.png" media-type="image/png" />
+    <item href="Images/17.png" id="x17.png" media-type="image/png" />
+    <item href="Text/content_0005.xhtml" id="content_0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/content_0006.xhtml" id="content_0006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/18.png" id="x18.png" media-type="image/png" />
+    <item href="Text/content_0007.xhtml" id="content_0007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/19.png" id="x19.png" media-type="image/png" />
+    <item href="Text/content_0009.xhtml" id="content_0009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Taiho.jpg" id="Taiho.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml" properties="duokan-page-fullscreen" />
+    <itemref idref="Preface.xhtml" />
+    <itemref idref="Preface2.xhtml" />
+    <itemref idref="content_0001.xhtml" />
+    <itemref idref="content_0002.xhtml" />
+    <itemref idref="content_0003.xhtml" />
+    <itemref idref="content_0004.xhtml" />
+    <itemref idref="content_0005.xhtml" />
+    <itemref idref="content_0006.xhtml" />
+    <itemref idref="content_0007.xhtml" />
+    <itemref idref="content_0008.xhtml" />
+    <itemref idref="content_0009.xhtml" />
+  </spine>
+  <guide />
+</package>
